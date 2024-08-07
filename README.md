@@ -2,9 +2,9 @@
 A broadcast chat website created using spring boot and STOMP websockets
 
 ## Flow
-- User type his name(any) and password("hello")
-- Chat room will open
-- User can start messaging
+- User will type his name(any) and password("hello").
+- Chat room will open.
+- User can start messaging.
 ## Tech 
 - Java
 - STOMP
