@@ -5,13 +5,11 @@ A broadcast chat website created using spring boot and STOMP websockets
 - User will type his name(any) and password("hello").
 - Chat room will open.
 - User can start messaging.
-## Tech 
+## Tech used
 - Java
 - STOMP
 - HTML/CSS
 - JavaScript
-
-## Tech used
 
 ## Images
 ![image](https://github.com/user-attachments/assets/85c89499-7da3-4a07-91cf-7c700eef6e46)
