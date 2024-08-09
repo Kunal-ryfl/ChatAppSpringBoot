@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="362ca8b7-9591-470f-b4b4-c54c0fdaeafa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/tusharprabhu/chatapp/ChatAppApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/tusharprabhu/chatapp/config/WebSocketConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/tusharprabhu/chatapp/config/WebSocketEventListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/tusharprabhu/chatapp/controller/ChatController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/tusharprabhu/chatapp/model/ChatMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/in/kunal/chatapp/config/WebSocketConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/in/kunal/chatapp/config/WebSocketConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/in/tusharprabhu/chatapp/ChatAppApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +27,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/tushar-prabhu/chat_app-springboot.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/Kunal-ryfl/ChatAppSpringBoot.git&quot;,
     &quot;accountId&quot;: &quot;62aff3a1-c68b-4534-92b9-bc66eee0f5b0&quot;
   }
 }</component>
@@ -46,6 +43,7 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2kJf7PGHPFQvp2IMOLjrytCFBdm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />

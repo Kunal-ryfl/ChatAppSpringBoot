@@ -7,6 +7,7 @@ var messageForm = document.querySelector("#messageForm");
 var messageInput = document.querySelector("#message");
 var messageArea = document.querySelector("#messageArea");
 var connectingElement = document.querySelector(".connecting");
+var userArea = document.querySelector("#userArea")
 
 var stompClient = null;
 var username = null;
@@ -77,6 +78,7 @@ function onConnected() {
   );
 
   connectingElement.classList.add("hidden");
+
 }
 
 function onError(error) {
